@@ -8,7 +8,7 @@ This project aims to develop a machine learning model that predicts how new cons
 - Zillow Research (https://www.zillow.com/research/data/).
 
 ## Exploratory Data Analysis (EDA)
-For exploratory data analysis (EDA), various data visualization tools were employed to plot distributions, detect outliers, and identify patterns. This phase was crucial for feature selection, as it helped us determine which variables had the most significant impact on housing prices. By using correlation matrices and scatter plots, we assessed the interactions between variables and explored how regional differences might influence market dynamics.
+For exploratory data analysis (EDA), various data visualization tools were employed to plot distributions, detect outliers, and identify patterns. This phase was crucial for feature selection, as it helped to determine which variables had the most significant impact on housing prices. By using correlation matrices and scatter plots, the interactions between variables were accessed and explored how regional differences might influence market dynamics.
 
 ## Data Preprocessing
 Missing values were addressed by using 'forward and backward filling' techniques, which were especially effective in preserving accurate temporal sequences in the data, essential for time series analysis. To mitigate potential scale bias within the dataset, 'normalization' and 'feature scaling' were applied to all numeric inputs, ensuring that larger-scale variables would not disproportionately affect the model outcomes.
