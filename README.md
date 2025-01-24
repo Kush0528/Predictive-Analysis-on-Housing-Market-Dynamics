@@ -27,6 +27,7 @@ Missing values were addressed by using 'forward and backward filling' techniques
 Analysis using SHAP values showed that factors like new construction counts and market heat indexes play crucial roles in influencing housing prices. The SHAP summary plot visually highlights the impact of these features. Higher values of these factors significantly drive the model's predictions, reflecting the real-world dynamics observed in housing markets.
 
 ## Prototype Development
+![Image](https://github.com/user-attachments/assets/232bd828-4ead-4757-b667-5279153964c5)
 To translate model's capabilities into a practical application, 'Real Estate Price Prediction Dashboard' was developed. This interactive dashboard allows users to select a prediction model, choose a city, and specify additional housing units to see their impact on prices in real-time.
 
 ## Conclusion
